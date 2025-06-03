@@ -32,6 +32,8 @@ Image(4), when you click on “End Puzzle” option the program will prompt the 
 whether you want to exit the puzzle or not.
 
 <img width="362" alt="5" src="https://github.com/user-attachments/assets/2448ac33-bc64-425d-9a58-eb3c9693f5a0" />
+
+
 Image(5) , when you confirm the end puzzle prompt, the program will prompt out the review of
 the no of questions attempted, along with the answer selected by user as ‘your answer’ and actual
 answer as ‘correct answer’ and the score will be updated when u return to main menu.
@@ -44,11 +46,15 @@ confirmation box.
 
 
 <img width="359" alt="7" src="https://github.com/user-attachments/assets/0ea93344-0578-4d6a-8e06-f40fb80729e7" />
+
+
 Image(7) , when you confirm ending quiz the program will prompt the review of the no
 of questions answered, also updating the final score.
 
 
 <img width="384" alt="8" src="https://github.com/user-attachments/assets/af7cf2f7-01c9-4a8a-b669-a2587ca5cdfb" />
+
+
 Image(8) , if the user decides to jump off to higher difficulty then the user can select the
 difficulty level as well, and the program will also define what difficulty level you have
 selected and you can answer questions based on that.
@@ -60,6 +66,7 @@ selected and you can answer questions based on that.
 
 <img width="361" alt="10" src="https://github.com/user-attachments/assets/73f13d6b-82d0-4637-9d00-43a860137770" />
 
+
 Image(9) , if the user wants to give the feedback of the quiz then user can click on
 “Feedback” button on main menu, the the feedback box will appear where you can write
 your feedback and click on submit button. On clicking the ‘Submit’ option the program
@@ -69,6 +76,7 @@ submitted.
 
 
 <img width="383" alt="11" src="https://github.com/user-attachments/assets/f9150c49-cafd-47cc-8c92-3f15adf1e575" />
+
 
 Image(11) , the feedback given by the user will get saved in the programmers file, named
 as feedback.txt
